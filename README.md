@@ -9,6 +9,10 @@
 ## React ##
 * [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 
+## Awesome ##
+* [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+
+
 ## Misc ##
 * [Stack on a budget](https://github.com/255kb/stack-on-a-budget) - This repository offers a collection of services with great free tiers for developers on a budget.
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
