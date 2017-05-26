@@ -6,6 +6,8 @@
 * [Mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a similar manner as markdown.
 * [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
 
+## React ##
+* [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 
 ## Misc ##
 * [Stack on a budget](https://github.com/255kb/stack-on-a-budget) - This repository offers a collection of services with great free tiers for developers on a budget.
