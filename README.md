@@ -26,3 +26,7 @@
 
 ## Code Camps
 * [free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+
+## C# File Helpers
+* [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams
+* [CsvHelper](https://joshclose.github.io/CsvHelper/) -  A .NET library for reading and writing CSV files. Extremely fast, flexible and easy to use. Supports reading and writing of custom class objects.
