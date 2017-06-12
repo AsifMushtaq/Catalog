@@ -23,6 +23,7 @@
 * [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
 * [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Bare bones Python implementations of some of the foundational Machine Learning models and algorithms.
+* [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).
 
 ## Code Camps
 * [free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
