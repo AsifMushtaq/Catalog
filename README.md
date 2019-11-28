@@ -41,7 +41,7 @@
 
 ## Visual Studio Plugins
 
-* []
+* [Add new file](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
 
 ## Learning
 
