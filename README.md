@@ -21,6 +21,7 @@
 * [Stack on a budget](https://github.com/255kb/stack-on-a-budget) - This repository offers a collection of services with great free tiers for developers on a budget.
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
 * [Auth Boss](https://github.com/teesloane/Auth-Boss)
+* [Adaptive Cards](https://adaptivecards.io/) - Adaptive Cards are an open card exchange format enabling developers to exchange UI content in a common and consistent way.
 
 ## Machine Learning
 
